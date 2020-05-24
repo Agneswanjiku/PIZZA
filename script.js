@@ -273,7 +273,7 @@ $(function () {
                         }
                         break;
                     case size = "medium":
-                        price = 600;
+                        price = 800;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
