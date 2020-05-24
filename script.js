@@ -21,7 +21,7 @@ $(function () {
             case flavour = "vegtikka":
                 switch (size) {
                     case size = "regular":
-                        price = 300;
+                        price = 400;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -98,7 +98,7 @@ $(function () {
                         break;
                 }
                 break;
-            case flavour = "periperi":
+            case flavour = "periperi" :
                 switch (size) {
                     case size = "regular":
                         price = 300;
@@ -141,7 +141,7 @@ $(function () {
             case flavour = "bbq":
                 switch (size) {
                     case size = "regular":
-                        price = 300;
+                        price = 400;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -153,7 +153,7 @@ $(function () {
                         }
                         break;
                     case size = "medium":
-                        price = 600;
+                        price = 800;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -181,7 +181,7 @@ $(function () {
             case flavour = "boerewors":
                 switch (size) {
                     case size = "regular":
-                        price = 300;
+                        price = 400;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -193,7 +193,7 @@ $(function () {
                         }
                         break;
                     case size = "medium":
-                        price = 600;
+                        price = 800;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -221,7 +221,7 @@ $(function () {
             case flavour = "hawaiian":
                 switch (size) {
                     case size = "regular":
-                        price = 300;
+                        price = 400;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
