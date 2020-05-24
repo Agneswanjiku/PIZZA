@@ -301,7 +301,7 @@ $(function () {
             case flavour = "regina":
                 switch (size) {
                     case size = "regular":
-                        price = 300;
+                        price = 400;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
