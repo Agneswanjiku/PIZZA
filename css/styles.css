@@ -240,9 +240,9 @@ figure img {
 }
 
 .txt {
-    font-family: system-ui, cursive;
     color:darkgreen;
     font-size: 23px;
+    font-family: monospace;
 }
 
 .txt-big {
