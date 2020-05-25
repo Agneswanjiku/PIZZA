@@ -128,7 +128,7 @@ input[type="email"] {
 }
 
 .click-me, button[type=submit], .deliver, .delivernot {
-    color: #fff;
+    color:peru;
     text-decoration: none;
     text-transform: uppercase;
     display: inline-block;
@@ -333,7 +333,7 @@ figure img {
         height: 650px;
     }
 
-    .piz-pap {
+    .piz-IN {
         font-size: 50px;
     }
 
