@@ -1,21 +1,21 @@
- project name
+ <strong>project name</strong>
 
 This is a web application for Pizza IN which is a pizza selling venture, that shows details about the services and diffent pizza they sell, their menu and also allows customers to order online for their preferred pizza depending on size, crust they need and also allows them to input a location which they would love the piza to be delivered to.
 
-AUTHOR
+<strong>AUTHOR</strong>
 
 THIS PROJECT APP WAS CREATED BY: Agnes Wanjiku
 
-   AND
+   <strong>AND</strong>
 You can reach me
 
 via
 email:shikonorman@gmail.com
 
-   OR
+  <strong> OR</strong>
 phone number:0797089772
 
-Languages used:
+<strong>Languages used:</strong>
 
 HTML :To come up with the structure of the page. CSS :To style the webpage. Java script :To make the web page interactive
 
