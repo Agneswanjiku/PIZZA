@@ -19,7 +19,7 @@ phone number:0797089772
 
 HTML :To come up with the structure of the page. CSS :To style the webpage. Java script :To make the web page interactive
 
-<strong>SETUP INSTRUCTIONS</strong>
+<strong>SETUP INSTRUCTIONS</strong><br>
 Use this link below to have a look on my project: https://agneswanjiku.github.io/PIZZA/
 
 BDD
