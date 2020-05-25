@@ -51,8 +51,8 @@ li {
 }
 
 .menu-btn {
-    border-radius: 20px;
-    margin-top: 20px;
+    border-radius: 30px;
+    margin-top:30px;
     color: #000;
 }
 
@@ -65,7 +65,7 @@ figcaption {
 }
 
 #order-pizza {
-    color: #000;
+    color:orange;
 }
 
 #list li {
@@ -74,7 +74,7 @@ figcaption {
 }
 
 .order-summary h1, .summary, .contact {
-    color: #000;
+    color:yellow;
     font-family: 'Love Ya Like A Sister', cursive;
     margin-top: 30px;
 }
