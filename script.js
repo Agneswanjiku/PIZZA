@@ -101,7 +101,7 @@ $(function () {
             case flavour = "periperi" :
                 switch (size) {
                     case size = "regular":
-                        price = 300;
+                        price = 400;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
@@ -113,7 +113,7 @@ $(function () {
                         }
                         break;
                     case size = "medium":
-                        price = 600;
+                        price = 800;
                         if (crust === "thin") {
                             totalPrice = (price * number) + 100;
                         } else if (crust === "thick") {
