@@ -1,38 +1,39 @@
- <strong>project name</strong>
+ <strong>project name</strong><br>
 
 This is a web application for Pizza IN which is a pizza selling venture, that shows details about the services and diffent pizza they sell, their menu and also allows customers to order online for their preferred pizza depending on size, crust they need and also allows them to input a location which they would love the piza to be delivered to.
 
-<strong>AUTHOR</strong>
+<strong>AUTHOR</strong><br>
 
 THIS PROJECT APP WAS CREATED BY: Agnes Wanjiku
 
-   <strong>AND</strong>
+   <strong>AND</strong><br>
+
 You can reach me
 
 via
 email:shikonorman@gmail.com
 
-  <strong> OR</strong>
+  <strong> OR</strong><br>
 phone number:0797089772
 
-<strong>Languages used:</strong>
+<strong>Languages used:</strong><br>
 
 HTML :To come up with the structure of the page. CSS :To style the webpage. Java script :To make the web page interactive
 
 <strong>SETUP INSTRUCTIONS</strong><br>
 Use this link below to have a look on my project: https://agneswanjiku.github.io/PIZZA/
 
-BDD
+<strong>BDD</strong>
 
 I laid the structure using html,
 Styled using css
 Downloaded bootstrap and Java to make the page interactive
 I also used some jquery function.
 
-bugs
+<strong>bugs</strong><br>
 i had issue with the script file but i was able to manage it .
 
-Technical requirements
+<strong>Technical requirements</strong><br>
 Any web browser applicable but i would recommend google chrome
 
 <strong>Content information</strong>
