@@ -336,6 +336,9 @@ figure img {
     .piz-IN {
         font-size: 50px;
     }
+    h1{
+        color:green ! important; 
+    }
 
     ul > .nav-items {
         display: inline;
